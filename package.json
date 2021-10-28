@@ -36,5 +36,11 @@
     "@types/passport": "^1.0.4",
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
-  }
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peyman-moshfegh/COMP229_014_02.git"
+  },
+  "homepage": "https://github.com/peyman-moshfegh/COMP229_014_02.git"
 }
